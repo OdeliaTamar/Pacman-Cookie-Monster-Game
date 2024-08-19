@@ -4,7 +4,7 @@
 
 ## General Overview:
 This project involves creating the Pacman game, named "CookieMaster."
-![Open page](./resorces/open_window.png)
+![Open page](./resources/open_window.png)
 ## Objective and End of the Game:
 The player's objective (as Pacman) is to consume all the cookies in each level without being caught by the demons. A level is successfully completed when all cookies on the screen are eaten, leading to the next level. The game continues as long as there are additional levels and the player has not been caught three times. The player has three lives. The game ends either after completing the last level or after the player is caught by a demon three times.
 
