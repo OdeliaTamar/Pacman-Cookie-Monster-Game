@@ -1,6 +1,7 @@
 
 # Project: Pacman - 🍪 CookieMaster 🍪 Game
 
+![Open page](./resources/pacman.png)
 
 ## General Overview:
 This project involves creating the Pacman game, named "CookieMaster."
@@ -81,6 +82,9 @@ We used the SFML library for graphics and sound. Follow these instructions to in
 
 1. Download the SFML library from the [official website](https://www.sfml-dev.org/download/sfml/2.5.1). The direct link for the 64-bit Visual C++ 2017 file is [here](https://www.sfml-dev.org/files/SFML-2.5.1-windows-vc15-64-bit.zip).
 2. Extract the downloaded file into a folder named `SFML` in your `C:` drive. After extraction, you should have a folder structure like `C:\SFML\SFML-2.5.1` with subfolders such as `bin`, `include`, `lib`, etc.
+
+## Pictures from the game:
+
 ![Open page](./resources/open_window.png)
 
 ![Open page](./resources/helpPage.png)
