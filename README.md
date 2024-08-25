@@ -83,4 +83,15 @@ We used the SFML library for graphics and sound. Follow these instructions to in
 2. Extract the downloaded file into a folder named `SFML` in your `C:` drive. After extraction, you should have a folder structure like `C:\SFML\SFML-2.5.1` with subfolders such as `bin`, `include`, `lib`, etc.
 ![Open page](./resources/open_window.png)
 
+![Open page](./resources/helpPage.png)
+
+![Open page](./resources/play1.png)
+
+![Open page](./resources/play2.png)
+
+![Open page](./resources/WinPage.png)
+
+![Open page](./resources/gameOverPage.png)
+
+
 
