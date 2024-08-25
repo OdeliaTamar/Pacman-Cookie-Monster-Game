@@ -1,5 +1,5 @@
 
-# Project: Pacman - 🍪 CookieMaster 🍪 Game
+# Project: Pacman - 🍪 Cookie Monster 🍪 Game
 
 ![Open page](./resources/pacman.png)
 
